@@ -6,6 +6,7 @@ public class GitTest01 {
         System.out.println("hello git!");
 
         System.out.println("master2 push test!");
+        System.out.println("在GitHub上修改了代码！！！！");
 
     }
 }
